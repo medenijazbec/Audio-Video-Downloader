@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMDownloader6_0", "MMDownloader6_0.csproj", "{94B0C302-10D8-462F-888D-8137BAA84A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B0C302-10D8-462F-888D-8137BAA84A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B0C302-10D8-462F-888D-8137BAA84A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B0C302-10D8-462F-888D-8137BAA84A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B0C302-10D8-462F-888D-8137BAA84A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9898DF3-FC9F-4126-8351-47FE9815D443}
+	EndGlobalSection
+EndGlobal

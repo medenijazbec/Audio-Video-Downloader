@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bVCEzlV9Av0BQwe3ULT5IbILrEIEbbDh4yIIuqNfXkWLb0A2s+u2GRgRtwFPbJ5pYkhGaXzzveyK36NnWNrpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matic\\Desktop\\Personal projects\\MMDownloader6_0\\MMDownloader6_0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\matic\\.nuget\\packages\\youtubedlsharp\\1.1.0\\youtubedlsharp.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
